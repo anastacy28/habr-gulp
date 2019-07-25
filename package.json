@@ -1,0 +1,25 @@
+{
+  "name": "habr-gulp",
+  "version": "1.0.0",
+  "description": "template gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anastacy28/habr-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anastacy28/habr-gulp/issues"
+  },
+  "homepage": "https://github.com/anastacy28/habr-gulp#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "save": "^2.4.0",
+    "sync-bower": "^1.0.1"
+  }
+}
